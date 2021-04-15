@@ -1,35 +1,18 @@
 // ==UserScript==
 // @name           Soap2Day Autoplay
-// @version        1.2
+// @version        1.3
 // @description    Autoplay soap2play shows and movies when the page loads. Written in Tampermonkey.
 // @author         n0rmancodes
-// @include        https://soap2day.to/movie_*
-// @include        https://soap2day.to/episode_*
-// @include        https://soap2day.to/sport_*
-// @include        https://soap2day.ac/movie_*
-// @include        https://soap2day.ac/episode_*
-// @include        https://soap2day.ac/sport_*
-// @include        https://soap2day.im/movie_*
-// @include        https://soap2day.im/episode_*
-// @include        https://soap2day.im/sport_*
-// @include        https://soap2day.nl/movie_*
-// @include        https://soap2day.nl/episode_*
-// @include        https://soap2day.nl/sport_*
-// @include        https://soap2day.se/movie_*
-// @include        https://soap2day.se/episode_*
-// @include        https://soap2day.se/sport_*
-// @include        https://s2dfree.to/movie_*
-// @include        https://s2dfree.to/episode_*
-// @include        https://s2dfree.to/sport_*
-// @include        https://s2dfree.is/movie_*
-// @include        https://s2dfree.is/episode_*
-// @include        https://s2dfree.is/sport_*
-// @include        https://s2dfree.in/movie_*
-// @include        https://s2dfree.in/episode_*
-// @include        https://s2dfree.in/sport_*
-// @include        https://s2dfree.nl/movie_*
-// @include        https://s2dfree.nl/episode_*
-// @include        https://s2dfree.nl/sport_*
+// @include        https://soap2day.to/*
+// @include        https://soap2day.im/*
+// @include        https://soap2day.ac/*
+// @include        https://soap2day.se/*
+// @include        https://s2dfree.to/*
+// @include        https://s2dfree.cc/*
+// @include        https://s2dfree.de/*
+// @include        https://s2dfree.is/*
+// @include        https://s2dfree.in/*
+// @include        https://s2dfree.nl/*
 // @grant          none
 // @license        The Unlicense
 // @source         https://github.com/n0rmancodes/soap2day-autoplay
