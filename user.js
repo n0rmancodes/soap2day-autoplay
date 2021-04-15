@@ -1,11 +1,14 @@
 // ==UserScript==
 // @name           Soap2Day Autoplay
-// @version        1.1
+// @version        1.2
 // @description    Autoplay soap2play shows and movies when the page loads. Written in Tampermonkey.
 // @author         n0rmancodes
 // @include        https://soap2day.to/movie_*
 // @include        https://soap2day.to/episode_*
 // @include        https://soap2day.to/sport_*
+// @include        https://soap2day.ac/movie_*
+// @include        https://soap2day.ac/episode_*
+// @include        https://soap2day.ac/sport_*
 // @include        https://soap2day.im/movie_*
 // @include        https://soap2day.im/episode_*
 // @include        https://soap2day.im/sport_*
